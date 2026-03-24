@@ -1,2 +1,3 @@
-this is the read me
-
+# Arduino Kalman Filter Library
+### SAmple text for formating or whatever
+eeeeeeeeeeeeeeeeeeeeeeeeeeeee
